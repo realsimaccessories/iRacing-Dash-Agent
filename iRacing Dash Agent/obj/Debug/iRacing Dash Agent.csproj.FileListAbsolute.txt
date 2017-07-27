@@ -1,0 +1,16 @@
+C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\iRacing-Dash-Agent\iRacing Dash Agent\obj\Debug\iRacing Dash Agent.csprojResolveAssemblyReference.cache
+C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\iRacing-Dash-Agent\iRacing Dash Agent\obj\Debug\iRacing_Dash_Agent.MainForm.resources
+C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\iRacing-Dash-Agent\iRacing Dash Agent\obj\Debug\iRacing_Dash_Agent.Properties.Resources.resources
+C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\iRacing-Dash-Agent\iRacing Dash Agent\obj\Debug\iRacing Dash Agent.csproj.GenerateResource.Cache
+C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\iRacing-Dash-Agent\iRacing Dash Agent\bin\Debug\iRacing Dash Agent.exe.config
+C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\iRacing-Dash-Agent\iRacing Dash Agent\bin\Debug\iRacing Dash Agent.exe
+C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\iRacing-Dash-Agent\iRacing Dash Agent\bin\Debug\iRacing Dash Agent.pdb
+C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\iRacing-Dash-Agent\iRacing Dash Agent\bin\Debug\iRacingSdkWrapper.dll
+C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\iRacing-Dash-Agent\iRacing Dash Agent\bin\Debug\YamlDotNet.dll
+C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\iRacing-Dash-Agent\iRacing Dash Agent\bin\Debug\iRSDKSharp.dll
+C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\iRacing-Dash-Agent\iRacing Dash Agent\bin\Debug\iRacingSdkWrapper.pdb
+C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\iRacing-Dash-Agent\iRacing Dash Agent\bin\Debug\YamlDotNet.pdb
+C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\iRacing-Dash-Agent\iRacing Dash Agent\bin\Debug\YamlDotNet.xml
+C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\iRacing-Dash-Agent\iRacing Dash Agent\bin\Debug\iRSDKSharp.pdb
+C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\iRacing-Dash-Agent\iRacing Dash Agent\obj\Debug\iRacing Dash Agent.exe
+C:\Users\wayne_chdb2k8\Source\Repos\Visual Studio\iRacing-Dash-Agent\iRacing Dash Agent\obj\Debug\iRacing Dash Agent.pdb
